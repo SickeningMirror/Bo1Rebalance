@@ -1,0 +1,11 @@
+VERSION             "1"
+CONFIG              "C:/trees/cod3/cod3/bin/StringEd.cfg"
+FILENOTES           "Generic Plutonium patches."
+
+REFERENCE           WEAPON_M60_BIGAMMO
+LANG_ENGLISH        "M60 Extended Mags"
+
+REFERENCE           WEAPON_CZ75_AUTO
+LANG_ENGLISH        "CZ75 Drum Mag"
+
+ENDMARKER
