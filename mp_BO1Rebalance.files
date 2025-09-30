@@ -4,6 +4,7 @@ maps\mp\_spyplane.gsc
 maps\mp\_turret_killstreak.gsc
 maps\mp\gametypes\_killstreak_weapons.gsc
 maps\mp\gametypes\_supplydrop.gsc
+mod.csv
 weapons\mp\ak47_acog_dualclip_mp
 weapons\mp\ak47_acog_extclip_mp
 weapons\mp\ak47_acog_mp
