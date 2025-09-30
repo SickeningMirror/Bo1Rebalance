@@ -1,10 +1,7 @@
-maps\mp\_bomber.gsc
 maps\mp\_mortar.gsc
-maps\mp\_spyplane.gsc
 maps\mp\_turret_killstreak.gsc
 maps\mp\gametypes\_killstreak_weapons.gsc
 maps\mp\gametypes\_supplydrop.gsc
-mod.csv
 weapons\mp\ak47_acog_dualclip_mp
 weapons\mp\ak47_acog_extclip_mp
 weapons\mp\ak47_acog_mp
@@ -89,6 +86,7 @@ weapons\mp\aug_reflex_extclip_mp
 weapons\mp\aug_reflex_mp
 weapons\mp\aug_reflex_silencer_mp
 weapons\mp\aug_silencer_mp
+weapons\mp\bomber_mp
 weapons\mp\china_lake_mp
 weapons\mp\commando_acog_dualclip_mp
 weapons\mp\commando_acog_extclip_mp
@@ -259,6 +257,7 @@ weapons\mp\gl_fnfal_mp
 weapons\mp\gl_galil_mp
 weapons\mp\gl_m14_mp
 weapons\mp\gl_m16_mp
+weapons\mp\hatchet_mp
 weapons\mp\hk21_acog_extclip_mp
 weapons\mp\hk21_acog_mp
 weapons\mp\hk21_elbit_extclip_mp
