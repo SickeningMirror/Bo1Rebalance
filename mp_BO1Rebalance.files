@@ -1,8 +1,10 @@
 flameconfigs\default_flame.cfg
 maps\mp\_mortar.gsc
 maps\mp\_spyplane.gsc
+maps\mp\_tabun.gsc
 maps\mp\_turret_killstreak.gsc
 maps\mp\gametypes\_supplydrop.gsc
+maps\mp\gametypes\_weapons.gsc
 weapons\mp\ak47_acog_dualclip_mp
 weapons\mp\ak47_acog_extclip_mp
 weapons\mp\ak47_acog_mp
@@ -473,6 +475,7 @@ weapons\mp\mpl_reflex_silencer_mp
 weapons\mp\mpl_rf_mp
 weapons\mp\mpl_rf_silencer_mp
 weapons\mp\mpl_silencer_mp
+weapons\mp\nightingale_mp
 weapons\mp\pm63_extclip_mp
 weapons\mp\pm63_grip_extclip_mp
 weapons\mp\pm63_grip_mp
@@ -517,6 +520,7 @@ weapons\mp\rpk_mp
 weapons\mp\rpk_reflex_dualclip_mp
 weapons\mp\rpk_reflex_extclip_mp
 weapons\mp\rpk_reflex_mp
+weapons\mp\satchel_charge_mp
 weapons\mp\skorpion_extclip_mp
 weapons\mp\skorpion_extclip_silencer_mp
 weapons\mp\skorpion_grip_extclip_mp
@@ -567,6 +571,7 @@ weapons\mp\stoner63_mp
 weapons\mp\stoner63_reflex_extclip_mp
 weapons\mp\stoner63_reflex_mp
 weapons\mp\strela_mp
+weapons\mp\tabun_gas_mp
 weapons\mp\uzi_acog_extclip_mp
 weapons\mp\uzi_acog_grip_mp
 weapons\mp\uzi_acog_mp
