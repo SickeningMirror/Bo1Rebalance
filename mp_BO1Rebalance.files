@@ -1,4 +1,6 @@
+flameconfigs\default_flame.cfg
 maps\mp\_mortar.gsc
+maps\mp\_spyplane.gsc
 maps\mp\_turret_killstreak.gsc
 maps\mp\gametypes\_supplydrop.gsc
 weapons\mp\ak47_acog_dualclip_mp
