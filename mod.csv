@@ -84,6 +84,7 @@ weapon,mp\aug_reflex_extclip_mp
 weapon,mp\aug_reflex_mp
 weapon,mp\aug_reflex_silencer_mp
 weapon,mp\aug_silencer_mp
+weapon,mp\bomber_mp
 weapon,mp\china_lake_mp
 weapon,mp\commando_acog_dualclip_mp
 weapon,mp\commando_acog_extclip_mp
@@ -254,6 +255,7 @@ weapon,mp\gl_fnfal_mp
 weapon,mp\gl_galil_mp
 weapon,mp\gl_m14_mp
 weapon,mp\gl_m16_mp
+weapon,mp\hatchet_mp
 weapon,mp\hk21_acog_extclip_mp
 weapon,mp\hk21_acog_mp
 weapon,mp\hk21_elbit_extclip_mp
@@ -512,6 +514,7 @@ weapon,mp\rpk_mp
 weapon,mp\rpk_reflex_dualclip_mp
 weapon,mp\rpk_reflex_extclip_mp
 weapon,mp\rpk_reflex_mp
+weapon,mp\satchel_charge_mp
 weapon,mp\skorpion_extclip_mp
 weapon,mp\skorpion_extclip_silencer_mp
 weapon,mp\skorpion_grip_extclip_mp
@@ -562,6 +565,7 @@ weapon,mp\stoner63_mp
 weapon,mp\stoner63_reflex_extclip_mp
 weapon,mp\stoner63_reflex_mp
 weapon,mp\strela_mp
+weapon,mp\tabun_gas_mp
 weapon,mp\uzi_acog_extclip_mp
 weapon,mp\uzi_acog_grip_mp
 weapon,mp\uzi_acog_mp
@@ -600,8 +604,12 @@ weapon,mp\wa2000_silencer_mp
 weapon,mp\wa2000_vzoom_extclip_mp
 weapon,mp\wa2000_vzoom_mp
 weapon,mp\wa2000_vzoom_silencer_mp
-rawfile,maps/mp/_bomber.gsc
+weapon,mp\willy_pete_mp
+rawfile,flameconfigs/default_flame.cfg
+rawfile,maps/mp/_decoy.gsc
 rawfile,maps/mp/_mortar.gsc
 rawfile,maps/mp/_spyplane.gsc
+rawfile,maps/mp/_tabun.gsc
 rawfile,maps/mp/_turret_killstreak.gsc
 rawfile,maps/mp/gametypes/_supplydrop.gsc
+rawfile,maps/mp/gametypes/_weapons.gsc

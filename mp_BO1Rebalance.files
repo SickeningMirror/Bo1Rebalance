@@ -1,4 +1,5 @@
 flameconfigs\default_flame.cfg
+maps\mp\_decoy.gsc
 maps\mp\_mortar.gsc
 maps\mp\_spyplane.gsc
 maps\mp\_tabun.gsc
@@ -475,7 +476,6 @@ weapons\mp\mpl_reflex_silencer_mp
 weapons\mp\mpl_rf_mp
 weapons\mp\mpl_rf_silencer_mp
 weapons\mp\mpl_silencer_mp
-weapons\mp\nightingale_mp
 weapons\mp\pm63_extclip_mp
 weapons\mp\pm63_grip_extclip_mp
 weapons\mp\pm63_grip_mp
@@ -610,4 +610,5 @@ weapons\mp\wa2000_silencer_mp
 weapons\mp\wa2000_vzoom_extclip_mp
 weapons\mp\wa2000_vzoom_mp
 weapons\mp\wa2000_vzoom_silencer_mp
+weapons\mp\willy_pete_mp
 zone_source\english\assetlist\ignorefiles.csv
